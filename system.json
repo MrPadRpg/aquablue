@@ -1,0 +1,28 @@
+{
+    "name": "aquablue",
+    "title": "Aquablue",
+    "description": "Aquablue RPG from Studio Deadcrows.",
+    "version": "0.1",
+    "templateVersion": 2,
+    "author": "MrPadRPG",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.7.9",
+    "esmodules": ["module/simple.js"],
+    "styles": ["styles/simple.css"],
+    "packs": [],
+
+    "languages": [{
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "fr",
+            "name": "French",
+            "path": "lang/fr.json"
+        }
+    ],
+    "socket": false,
+    "url": "https://github.com/MrPadRpg/FoundryVTT/tree/main/Systems/aquablue",
+    "manifest": "https://raw.githubusercontent.com/MrPadRpg/FoundryVTT/main/Systems/aquablue/system.json"
+}
