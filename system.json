@@ -2,7 +2,7 @@
     "name": "aquablue",
     "title": "Aquablue",
     "description": "Aquablue RPG from Studio Deadcrows.",
-    "version": "0.1",
+    "version": "0.0.1",
     "templateVersion": 2,
     "author": "MrPadRPG",
     "minimumCoreVersion": "0.7.9",
@@ -23,6 +23,7 @@
         }
     ],
     "socket": false,
-    "url": "https://github.com/MrPadRpg/FoundryVTT/tree/main/Systems/aquablue",
-    "manifest": "https://raw.githubusercontent.com/MrPadRpg/FoundryVTT/main/Systems/aquablue/system.json"
+    "url": "https://github.com/MrPadRpg/aquablue",
+    "manifest": "https://raw.githubusercontent.com/MrPadRpg/aquablue/master/system.json",
+    "download": "https://github.com/MrPadRpg/aquablue/releases/tag/v0.0.1"
 }
