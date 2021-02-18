@@ -25,5 +25,5 @@
     "socket": false,
     "url": "https://github.com/MrPadRpg/aquablue",
     "manifest": "https://raw.githubusercontent.com/MrPadRpg/aquablue/master/system.json",
-    "download": "https://github.com/MrPadRpg/aquablue/releases/tag/v0.0.1"
+    "download": "https://github.com/MrPadRpg/aquablue/archive/v0.0.1.zip"
 }
